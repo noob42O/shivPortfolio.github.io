@@ -1,0 +1,26 @@
+  .bg-1 { 
+    background-color: #1abc9c; 
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: #474e5d; 
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #FFFF66; 
+    color: #555555;
+  }
+  .bg-4 { 
+    background-color: #ADD8E6; 
+    color: #ADD8E6;
+  }
+  img {
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+.css-selector {
+font-family: 'Font Name', serif;
+}
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
